@@ -7,7 +7,6 @@ DIY Handwired "Pocket Battleship," "Battlecruiser," I don't know. Something naut
 116 "normal" keys, plus one big dumb button wired into the matrix, plus a rotary encoder.
 Outemu dustproof green, for moar rattly click!!!!!
 Akko MDA WOB "Building blocks"
-KMK running on an RP2040 board, programmed with POG.
+[KMK](https://github.com/KMKfw) running on an RP2040 board, programmed with [POG](https://github.com/JanLunge/pog).
 
-KMK: https://github.com/KMKfw
-POG: https://github.com/JanLunge/pog
+![](/done1.jpeg)

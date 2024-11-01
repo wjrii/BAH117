@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="393.94489mm"
+   height="169.94489mm"
+   viewBox="0 0 393.94489 169.94489"
+   preserveAspectRatio="none"
+   version="1.1"
+   id="svg603"
+   sodipodi:docname="botplate v03.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview603"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36569515"
+     inkscape:cx="-221.49597"
+     inkscape:cy="507.25311"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg603" />
+  <defs
+     id="defs1" />
+  <defs
+     id="defs2">
+    <marker
+       id="markerCircle"
+       markerWidth="9"
+       markerHeight="9"
+       refX="5"
+       refY="5"
+       fill="none"
+       markerUnits="userSpaceOnUse">
+      <circle
+         cx="5"
+         cy="5"
+         r="3"
+         style="stroke:#000000;stroke-width:1px"
+         id="circle1" />
+    </marker>
+  </defs>
+  <g
+     data-xtype="XOpGroup"
+     data-name="Rectangle"
+     id="g73"
+     transform="matrix(1,0,0,-1,-31.240248,542.03408)"
+     style="stroke:#000000;stroke-width:1px">
+    <title
+       id="title73">Rectangle</title>
+  </g>
+  <g
+     id="g603"
+     transform="matrix(-1,0,0,1,323.17051,7.361731)">
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m -57.801927,-6.88929 a 12.5,12.5 0 0 0 -12.5,12.5"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path73" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m 322.69807,5.61071 a 12.5,12.5 0 0 0 -12.5,-12.5"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path74" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m 310.19807,162.11071 a 12.5,12.5 0 0 0 12.5,-12.5"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path75" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m -70.301927,149.61071 a 12.5,12.5 0 0 0 12.5,12.5"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path76" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="322.69806"
+       y1="5.6107178"
+       x2="322.69806"
+       y2="149.61072"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line76" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="310.19806"
+       y1="162.11072"
+       x2="-57.801926"
+       y2="162.11072"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line77" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="-70.301926"
+       y1="149.61072"
+       x2="-70.301926"
+       y2="5.6107178"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line78" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="-33.34692"
+       cy="-25.221252"
+       r="10"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle78"
+       transform="scale(1,-1)" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="113.19807"
+       y1="1.6107178"
+       x2="113.19807"
+       y2="57.610718"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line79" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="139.19807"
+       y1="1.6107178"
+       x2="139.19807"
+       y2="57.610718"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line80" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="114.19807"
+       y1="58.610718"
+       x2="138.19807"
+       y2="58.610718"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line81" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m 113.19807,57.61071 a 1,1 0 0 0 1,1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path81" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m 138.19807,58.61071 a 1,1 0 0 0 1,-1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path82" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="114.19807"
+       y1="0.61071777"
+       x2="138.19807"
+       y2="0.61071777"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line82" />
+    <line
+       data-xtype="XOpStraSeg2"
+       x1="-57.801926"
+       y1="-6.8892822"
+       x2="310.19806"
+       y2="-6.8892822"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="line83" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m 113.19807,1.61071 a 1,1 0 0 1 1,-1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path83" />
+    <path
+       data-xtype="XOpCirSeg2"
+       d="m 138.19807,0.61071 a 1,1 0 0 1 1,1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="path84" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="-12.801927"
+       cy="3.1392822"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle84"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="96.198074"
+       cy="3.1392822"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle85"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="156.19807"
+       cy="3.1392822"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle86"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="96.198074"
+       cy="-158.36072"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle87"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="156.19807"
+       cy="-158.36072"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle88"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="-12.801927"
+       cy="-158.36072"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle89"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="-66.551926"
+       cy="-124.61072"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle90"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="-66.551926"
+       cy="-30.610718"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle91"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="265.19806"
+       cy="-158.36072"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle92"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="265.19806"
+       cy="3.1392822"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle93"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="318.94806"
+       cy="-30.610718"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle94"
+       transform="scale(1,-1)" />
+    <circle
+       data-xtype="XOpCirSeg2"
+       cx="318.94806"
+       cy="-124.61072"
+       r="1.6"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.25mm"
+       vector-effect="non-scaling-stroke"
+       id="circle95"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     data-xtype="XOpSkB2Draft"
+     data-name="Standard sheet area"
+     id="g602"
+     transform="matrix(1,0,0,-1,-31.240248,542.03408)"
+     style="stroke:#000000;stroke-width:1px">
+    <title
+       id="title601">Standard sheet area</title>
+  </g>
+</svg>

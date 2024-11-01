@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1429.6613 583.04799"
+   width="1429.6614"
+   height="583.04797"
+   version="1.1"
+   id="svg67"
+   sodipodi:docname="topplate v02.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview67"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.73139031"
+     inkscape:cx="691.83306"
+     inkscape:cy="218.07781"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g67" />
+  <desc
+     id="desc1">top plate v02.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = file</desc>
+  <defs
+     id="defs4">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path1" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path2" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path3" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g4"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Geometry"
+     id="g54"
+     transform="translate(295.99917,-343.845)">
+    <path
+       style="fill:none;stroke:#000000"
+       d="M -276.602,344.345 H 1114.26"
+       id="path5" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 1133.16,363.243 V 907.495"
+       id="path6" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 1114.26,926.393 H -276.602"
+       id="path7" />
+    <path
+       d="m -276.60153,344.34526 a 18.897638,18.897638 0 0 0 -18.89764,18.89764"
+       style="fill:none;stroke:#000000"
+       id="path8" />
+    <path
+       d="m 1133.1622,363.2429 a 18.897638,18.897638 0 0 0 -18.8976,-18.89764"
+       style="fill:none;stroke:#000000"
+       id="path9" />
+    <path
+       d="m 1114.2646,926.39251 a 18.897638,18.897638 0 0 0 18.8976,-18.89764"
+       style="fill:none;stroke:#000000"
+       id="path10" />
+    <path
+       d="m -295.49917,907.49487 a 18.897638,18.897638 0 0 0 18.89764,18.89764"
+       style="fill:none;stroke:#000000"
+       id="path11" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M -295.499,907.495 V 363.243"
+       id="path12" />
+    <path
+       d="m 1092.7381,437.35953 a 52.913386,52.913386 0 0 0 -105.82672,0 52.913386,52.913386 0 0 0 105.82672,0 z"
+       style="fill:none;stroke:#000000"
+       id="path13" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 195.722,363.464 V 511.259"
+       id="path14" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 195.722,511.259 H -96.0673"
+       id="path15" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M -96.0673,511.259 V 363.464"
+       id="path16" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M -96.0673,363.464 H 195.722"
+       id="path17" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 501.716,363.464 V 511.259"
+       id="path18" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 501.716,511.259 H 209.933"
+       id="path19" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 209.933,511.259 V 363.464"
+       id="path20" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 209.933,363.464 H 501.716"
+       id="path21" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 807.722,363.464 V 511.259"
+       id="path22" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 807.722,511.259 H 515.931"
+       id="path23" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 515.931,511.259 V 363.464"
+       id="path24" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 515.931,363.464 H 807.722"
+       id="path25" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 969.716,363.464 V 511.259"
+       id="path26" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 969.716,511.259 H 821.933"
+       id="path27" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 821.933,511.259 V 363.464"
+       id="path28" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 821.933,363.464 H 969.716"
+       id="path29" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m -276.073,525.47 0.005,363.785"
+       id="path30" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m -276.068,889.255 h 903.79"
+       id="path31" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 627.722,889.255 v -72"
+       id="path32" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 627.722,817.255 h 89.994"
+       id="path33" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 717.716,817.255 v -72"
+       id="path34" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 717.716,745.255 h 54.006"
+       id="path35" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 771.722,745.255 v -72"
+       id="path36" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 771.722,673.255 h 36"
+       id="path37" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 807.722,673.255 V 525.47"
+       id="path38" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 807.722,525.47 H -276.073"
+       id="path39" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 731.927,759.47 v 71.995"
+       id="path40" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 731.927,831.465 h -72"
+       id="path41" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 659.927,831.465 V 907.26"
+       id="path42" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 659.927,907.26 H 879.722"
+       id="path43" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 879.722,907.26 V 831.465"
+       id="path44" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 879.722,831.465 h -72"
+       id="path45" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 807.722,831.465 V 759.47"
+       id="path46" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 807.722,759.47 H 731.927"
+       id="path47" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 821.933,817.255 h 72"
+       id="path48" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="m 893.933,817.255 v 72"
+       id="path49" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 893.933,889.255 H 1113.72"
+       id="path50" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 1113.72,889.255 V 525.47"
+       id="path51" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 1113.72,525.47 H 821.933"
+       id="path52" />
+    <path
+       style="fill:none;stroke:#000000"
+       d="M 821.933,525.47 V 817.255"
+       id="path53" />
+    <path
+       d="m -142.59835,437.36141 a 41.574805,41.574805 0 0 0 -83.14961,0 41.574805,41.574805 0 0 0 83.14961,0 z"
+       style="fill:none;stroke:#000000"
+       id="path54" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Text"
+     id="g55"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Hatch"
+     id="g56"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Dimensions"
+     id="g57"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Dimensions-Dimension Text"
+     id="g58"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Dimensions-Dimension Lines"
+     id="g59"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Dimensions-Dimension Limits"
+     id="g60"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Dimensions-Tolerance Texts"
+     id="g61"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Construction Aids"
+     id="g62"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Centre Lines"
+     id="g63"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Winding Lines"
+     id="g64"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Hidden Lines (2D)"
+     id="g65"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Hidden Edges (3D)"
+     id="g66"
+     transform="translate(295.99917,-343.845)" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="tangent edges"
+     id="g67"
+     transform="translate(295.99917,-343.845)" />
+</svg>
